@@ -17,7 +17,7 @@
 
 .city {
   font-weight: 600;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1;
   margin: 0;
   letter-spacing: 1px;
@@ -25,9 +25,8 @@
 
 .weather-description {
   font-weight: 400;
-  font-size: 14px;
-  line-height: 1;
-  margin: 0;
+  font-size: 18px;
+  margin-top: 7px;
 }
 
 .weather-icon {
@@ -36,7 +35,7 @@
 
 .temperature {
   font-weight: 600;
-  font-size: 50px;
+  font-size: 70px;
   line-height: 1;
   margin: 10px 0;
   width: auto;
@@ -56,13 +55,13 @@
 .parameter-label {
   text-align: left;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .parameter-value {
   text-align: right;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .parameter-label.top {

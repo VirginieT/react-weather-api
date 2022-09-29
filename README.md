@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/92692968/193144681-2536642d-0705-425a-8df2-1b3200ef3255.png)
+App pour s'entrainer à récupérer une API en React
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
